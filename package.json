@@ -17,6 +17,10 @@
     "url": "https://github.com/ThaisMoretto/ignite-nodejs-finAPI/issues"
   },
   "homepage": "https://github.com/ThaisMoretto/ignite-nodejs-finAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
